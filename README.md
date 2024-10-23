@@ -9,4 +9,3 @@
 - ⚡ Siempre con ganas de aprender algo nuevo en este mundo en el que me acabo de adentrar
 - 💻 Los repositorios son actividades del grado, disfruta echandoles un ojo y no dudes en proponer algun cambio
 - Por aquí dejo mi portfolio para que puedas saber un poco mas sobre mí https://ainaradp.netlify.app/ .
--->
